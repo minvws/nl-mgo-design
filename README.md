@@ -58,3 +58,11 @@ De actuele ontwerpen staan in Figma.
 Ontwerp is nooit af. We blijven leren, testen en verbeteren.
 
 Zie **CONTRIBUTING.md** voor hoe je kunt bijdragen aan deze repository.
+
+
+## Licentie
+De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
+
+De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+
+Om alle licentie en auteursrechtelijke details af te handelen is het van belang dat je, zodra je een bijdrage wilt doen, onze Contributor License Agreement leest en accepteert.
