@@ -1,31 +1,53 @@
-# Ontwerpprincipes van Mijn Gezondheidsoverzicht
+# Ontwerpprincipes
 
-Deze principes helpen ons om **Mijn Gezondheidsoverzicht** begrijpelijk, toegankelijk en veilig te maken voor iedereen. Ze geven richting aan alles wat we doen: van beleid en techniek tot ontwerp en tekst.
+De volgende ontwerpprincipes geven richting aan het ontwerp van **Mijn Gezondheidsoverzicht**.
+
+Ze helpen ons om keuzes te maken die het product begrijpelijk, toegankelijk en betrouwbaar houden. Van strategie en beleid tot interactie, interface en tekst.
 
 ## 1. Altijd de mens centraal
 
-We ontwerpen voor mensen, niet voor systemen. Gezondheidsgegevens zijn van de burger zelf. De gebruiker beslist wat ermee gebeurt, wie ze mag gebruiken en wanneer.
+We ontwerpen voor mensen, niet voor systemen.
+
+Gezondheidsgegevens zijn van de burger zelf. De gebruiker bepaalt wat ermee gebeurt, wie ze mag gebruiken en wanneer.
+
 
 ## 2. Toegankelijk en duidelijk voor iedereen
 
-De app en website werken voor iedereen. Ook voor mensen met een beperking, lage taalvaardigheid of weinig digitale ervaring. Daarom maken we alles eenvoudig, zonder jargon of extra stappen.
+Mijn Gezondheidsoverzicht werkt voor iedereen.
+
+Ook voor mensen met een beperking, lage taalvaardigheid of weinig digitale ervaring. Daarom maken we alles zo eenvoudig mogelijk. Zonder jargon en zonder onnodige stappen.
+
 
 ## 3. Alles op één plek
 
-Alle gegevens komen samen op één plek. De structuur is begrijpelijk en overzichtelijk. Informatie die bij elkaar hoort, staat ook echt bij elkaar.
+Gezondheidsgegevens komen samen op één plek.
+
+De structuur is overzichtelijk en begrijpelijk. Informatie die bij elkaar hoort, staat ook bij elkaar.
+
 
 ## 4. Informatie helpt de gebruiker begrijpen
 
-Gezondheidsinformatie kan complex zijn. Daarom leggen we informatie waar mogelijk uit in begrijpelijke taal en tonen we waar nodig extra context.
+Gezondheidsinformatie kan complex zijn.
+
+Daarom leggen we informatie uit in begrijpelijke taal. Waar nodig geven we extra context, zodat gebruikers beter begrijpen wat ze zien of lezen.
+
 
 ## 5. Vertrouwen door openheid
 
-Vertrouwen ontstaat door duidelijkheid. We tonen altijd waar gegevens vandaan komen, waarom ze er zijn en wie er toegang heeft. Geen verborgen keuzes, geen verrassingen.
+Vertrouwen begint met duidelijkheid.
+
+We laten zien waar gegevens vandaan komen, waarom ze beschikbaar zijn en wie er toegang heeft. Geen verborgen keuzes en geen verrassingen.
+
 
 ## 6. Privacy en veiligheid vanaf het begin
 
-We beschermen gezondheidsgegevens met de hoogste zorg. Dat doen we niet achteraf, maar vanaf het eerste ontwerp. Zo voelt de app veilig en geruststellend.
+Gezondheidsgegevens verdienen de hoogste zorg.
+
+Privacy en veiligheid zijn daarom geen toevoeging achteraf, maar onderdeel van het ontwerp vanaf het eerste moment. Zo voelt Mijn Gezondheidsoverzicht veilig en betrouwbaar.
+
 
 ## 7. Minder is meer
 
-We maken alleen wat echt nodig is. Extra functies of keuzes voegen we niet zomaar toe. Minder opties betekent meer duidelijkheid en meer rust voor de gebruiker.
+We maken alleen wat echt nodig is.
+
+Nieuwe functies of keuzes voegen we niet zomaar toe. Minder opties zorgen voor meer duidelijkheid en meer rust voor de gebruiker.
